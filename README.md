@@ -1,7 +1,6 @@
 <h1 align="center">Lucas Passos</h1>
 <p align="center">Estudante de Desenvolvimento Front-end em busca de estágio</p>
 
-
 ---
 
 ### Sobre mim
