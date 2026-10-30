@@ -1,6 +1,7 @@
 <h1 align="center">Lucas Passos</h1>
 <p align="center">Estudante de Desenvolvimento Front-end em busca de estágio</p>
 
+
 ---
 
 ### Sobre mim
@@ -21,6 +22,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+
 ### Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
@@ -30,6 +32,8 @@
 | [Seu PC Web](https://github.com/oLucas-Passos/seu-pc-web) · [acessar](https://olucas-passos.github.io/seu-pc-web/) | Plataforma para aprender informática: Windows simulado com lições e montagem de PC em 3D | HTML, CSS, JavaScript, Three.js |
 | [Sistema Dinho Autopeças](https://github.com/oLucas-Passos/sistema-dinho-autopecas) | Site e demonstração de um ERP para lojas de autopeças: estoque, vendas, caixa e financeiro | React, TypeScript, Tailwind CSS |
 
+
 ### Contato
 
 <a href="mailto:lucaspassos162009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
