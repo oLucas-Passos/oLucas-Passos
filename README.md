@@ -5,10 +5,10 @@
 
 ### Sobre mim
 
- -Estudo desenvolvimento web com foco em **Front-end**
- -Gosto de criar interfaces interativas, de jogos em 3D no navegador a dashboards de análise de dados
- -No momento estou aprofundando meus conhecimentos em **JavaScript*
- -Busco uma oportunidade de **estágio** para aprender e contribuir com um time
+ Estudo desenvolvimento web com foco em **Front-end**,
+ gosto de criar interfaces interativas, de jogos em 3D no navegador a dashboards de análise de dados,
+ no momento estou aprofundando meus conhecimentos em **JavaScript* e
+ busco uma oportunidade de **estágio** para aprender e contribuir com um time
 
 ### Tecnologias
 
