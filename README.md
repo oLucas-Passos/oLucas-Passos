@@ -7,7 +7,7 @@
 
  Estudo desenvolvimento web com foco em **Front-end**,
  gosto de criar interfaces interativas, de jogos em 3D no navegador a dashboards de análise de dados,
- no momento estou aprofundando meus conhecimentos em **JavaScript* e
+ no momento estou aprofundando meus conhecimentos em **JavaScript** e
  busco uma oportunidade de **estágio** para aprender e contribuir com um time
 
 ### Tecnologias
@@ -26,6 +26,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [O verão no caixa do litoral](https://github.com/oLucas-Passos/comercio-litoral-fim-de-ano) · [acessar](https://olucas-passos.github.io/comercio-litoral-fim-de-ano/) | Quanto o comércio das cidades de praia recebe a mais no verão, com Pix por município do Banco Central e modelo de efeitos fixos | Python, pandas, statsmodels, Chart.js |
 | [Preço dos Combustíveis no Brasil](https://github.com/oLucas-Passos/precos-combustiveis-brasil) · [acessar](https://olucas-passos.github.io/precos-combustiveis-brasil/) | Análise de dados da ANP desde 2013 com dashboard interativo: evolução de preços, ranking dos estados e quando compensa abastecer com etanol | Python, pandas, JavaScript, Chart.js |
 | [Build Your Home](https://github.com/oLucas-Passos/build-your-home) · [jogar](https://olucas-passos.github.io/build-your-home/) | Jogo de decoração de interiores em 3D no navegador, com ciclo de dia e noite e iluminação dinâmica | HTML, CSS, JavaScript, Three.js |
 | [Seu PC Web](https://github.com/oLucas-Passos/seu-pc-web) · [acessar](https://olucas-passos.github.io/seu-pc-web/) | Plataforma para aprender informática: Windows simulado com lições e montagem de PC em 3D | HTML, CSS, JavaScript, Three.js |
